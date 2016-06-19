@@ -8,7 +8,8 @@ mcmc.py hace la parte 2 de MCMC
 los dos ultimos códigos dependen de estrella.py para obtención de datos
 
 #Comentarios
-Se invirtió mucho tiempo de sueño en esto, el pdf se demoró mucho en subir :c 
+Se invirtió mucho tiempo de sueño en esto, el pdf se demoró mucho en subir :c  (creo que webcursos está haciendo MC a mi tarea)
+
 
 Batman arrojó muchos NaN
 
